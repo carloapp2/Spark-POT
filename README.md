@@ -13,7 +13,7 @@ IBM created basic labs to help people learn Apache Sparl.
 
 To perform these labs, get on IBM's free Data Science platform at <http://datascience.ibm.com/>
 
-Labs: 
-Lab 1 - Intro - Use Spark Context, Create basic RDDs
-Lab 2 - SQL - Use SQL Context, Write SQL to perform basic transformations
-Lab 3 - Machine Learning - Use Spark ML, Create a Machine Learning Model
+Labs: <br>
+Lab 1 - Intro - Use Spark Context, Create basic RDDs<br>
+Lab 2 - SQL - Use SQL Context, Write SQL to perform basic transformations<br>
+Lab 3 - Machine Learning - Use Spark ML, Create a Machine Learning Model<br>
